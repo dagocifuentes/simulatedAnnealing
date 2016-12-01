@@ -1,4 +1,4 @@
-# simulatedAnnealing
+# Simulated Annealing
 Simulated annealing metaheuristic for the traveling salesman problem in Arduino
 
 Hello! In this project, I'm trying to implement a Simulated Annealing metaheuristic to solve the Traveling Salesman Problem using an Arduino UNO.
